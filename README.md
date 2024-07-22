@@ -1,8 +1,8 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Raina!
-👩🏻‍💻 Full Stack Developer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied Computer Science Engineering at St. Joseph's College of Engineering and Technology, Palai<br/>
+👩🏻‍💻 Aspiring Full Stack Web Developer sharing about my journey and learnings in tech<br/>
+👩🏻‍🎓 Studied Computer Science and Engineering at St. Joseph's College of Engineering and Technology, Palai<br/>
 💭 Currently learning about Angular<br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryana265)](https://github.com/anuraghazra/github-readme-stats)
