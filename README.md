@@ -4,6 +4,7 @@
 👩🏻‍💻 Aspiring Full Stack Web Developer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied Computer Science and Engineering at St. Joseph's College of Engineering and Technology, Palai<br/>
 💭 Currently learning about Angular<br/>
+💬 Ask me about : ME(A)RN
 
 
 # 💻 Tech Stack:
