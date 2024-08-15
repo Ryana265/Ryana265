@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Raina!
 👩🏻‍💻 Aspiring Full Stack Web Developer sharing about my Journey and Learnings in Tech<br/>
 👩🏻‍🎓 Graduated with a degree in Computer Science and Engineering from St. Joseph's College of Engineering and Technology, Palai<br/>
-📫 We all have to start somewhere, and doing something is better than nothing at all.Remember it is all about consistency.<br/>
+📫 We all have to start somewhere, and doing something is better than nothing at all. Remember it is all about consistency.<br/>
 💬 Ask me about : MEARN
 
 
