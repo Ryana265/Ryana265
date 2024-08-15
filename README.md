@@ -2,8 +2,7 @@
 
 # 👋 Hi, I'm Raina!
 👩🏻‍💻 Aspiring Full Stack Web Developer sharing about my Journey and Learnings in Tech<br/>
-👩🏻‍🎓 Studied Computer Science and Engineering at St. Joseph's College of Engineering and Technology, Palai<br/>
-💭 I’m looking to collaborate with any Web Development and App Development Projects<br/>
+👩🏻‍🎓 Graduated with a degree in Computer Science and Engineering from St. Joseph's College of Engineering and Technology, Palai<br/>
 📫 We all have to start somewhere, and doing something is better than nothing at all.Remember it is all about consistency.<br/>
 💬 Ask me about : MEARN
 
